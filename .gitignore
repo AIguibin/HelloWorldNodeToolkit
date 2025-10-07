@@ -1,3 +1,9 @@
+# custom file
+data
+docs
+result
+
+
 # Logs
 logs
 *.log

@@ -18,7 +18,7 @@ aiguibin-toolkit-alpha/
 │   └── index.js                  # 配置统一导出
 ├── src/
 │   ├── service/                  # 业务服务层
-│   │   ├── ruleImportService.js
+│   │   ├── RuleImportService.js
 │   │   ├── databaseService.js
 │   │   ├── httpService.js
 │   │   └── concurrentService.js
@@ -136,8 +136,8 @@ program.parse(process.argv);
 import { Command } from 'commander';
 import os from 'os';
 import path from 'path';
-import RuleImportService from '../src/service/ruleImportService.js';
-import { logger } from '../src/common/utils/logger.js';
+import RuleImportService from '../src/service/RuleImportService.js';
+import { logger } from '../src/common/helper/logger.js';
 
 const command = new Command('import-rules');
 
@@ -171,7 +171,7 @@ export default command;
 ```javascript
 import mysql from 'mysql2/promise';
 import { getDatabaseConfig } from '../../../config/database.js';
-import { logger } from '../../common/utils/logger.js';
+import { logger } from '../../common/helper/logger.js';
 import { DatabaseError } from '../../common/errors/databaseError.js';
 
 class ConnectionPoolManager {

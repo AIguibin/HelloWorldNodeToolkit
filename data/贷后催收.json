@@ -1,0 +1,2158 @@
+[
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": true,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": true,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "支行",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "保全经理",
+    "roleOrg": "支行",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": true,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务负责人",
+    "roleOrg": "支行",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "风险审查员",
+    "roleOrg": "支行",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "分理处",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": true,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "分理处",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": true,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "法人行",
+    "colNum": 15,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "保全经理",
+    "roleOrg": "法人行",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": true,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "法务专员",
+    "roleOrg": "法人行",
+    "colNum": 17,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "总行行长（顶岗）",
+    "roleOrg": "法人行",
+    "colNum": 18,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后催收",
+            "has": true,
+            "children": [
+              {
+                "name": "未结清借据信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "发起催收",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "催收任务",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表内逾期催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "预警信号催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "表外不良催收任务",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 5
+              },
+              {
+                "name": "催收预警信号",
+                "has": false,
+                "children": [
+                  {
+                    "name": "解除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "登报催收台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "维护诉讼时效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "催收15日内动账监控",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "催收详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "历史催收记录查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "催收记录详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 16
+              },
+              {
+                "name": "系统短信催收明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "短信日志详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 17
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  }
+]

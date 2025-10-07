@@ -1,0 +1,104 @@
+[
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 6,
+    "auths": []
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 7,
+    "auths": []
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 8,
+    "auths": []
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 9,
+    "auths": []
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 10,
+    "auths": []
+  },
+  {
+    "roleName": "总行业务管理员",
+    "roleOrg": "法人行",
+    "colNum": 11,
+    "auths": []
+  },
+  {
+    "roleName": "发放与支付审核员A",
+    "roleOrg": "法人行",
+    "colNum": 12,
+    "auths": []
+  },
+  {
+    "roleName": "发放与支付审核员B",
+    "roleOrg": "法人行",
+    "colNum": 13,
+    "auths": []
+  },
+  {
+    "roleName": "发放与支付审核员C",
+    "roleOrg": "法人行",
+    "colNum": 14,
+    "auths": []
+  },
+  {
+    "roleName": "发放与支付审核员D",
+    "roleOrg": "法人行",
+    "colNum": 15,
+    "auths": []
+  },
+  {
+    "roleName": "发放与支付审核员E",
+    "roleOrg": "法人行",
+    "colNum": 16,
+    "auths": []
+  },
+  {
+    "roleName": "总行集中审批分配员",
+    "roleOrg": "法人行",
+    "colNum": 17,
+    "auths": []
+  },
+  {
+    "roleName": "总行集中审批审批员",
+    "roleOrg": "法人行",
+    "colNum": 18,
+    "auths": []
+  },
+  {
+    "roleName": "办事处集中度审批人",
+    "roleOrg": "办事处",
+    "colNum": 19,
+    "auths": []
+  },
+  {
+    "roleName": "办事处大额贷款审批人",
+    "roleOrg": "办事处",
+    "colNum": 20,
+    "auths": []
+  },
+  {
+    "roleName": "省联社集中度审批人",
+    "roleOrg": "省联社",
+    "colNum": 21,
+    "auths": []
+  },
+  {
+    "roleName": "省联社大额贷款审批人",
+    "roleOrg": "省联社",
+    "colNum": 22,
+    "auths": []
+  }
+]

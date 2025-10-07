@@ -1,0 +1,4403 @@
+[
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "（二级支行）",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "（二级支行）",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "总行信贷负责人",
+    "roleOrg": "法人行",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "总行副行长（信贷）",
+    "roleOrg": "法人行",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "法人行",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  },
+  {
+    "roleName": "总行行长（顶岗）",
+    "roleOrg": "法人行",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "综合信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      }
+                    ],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      }
+                    ],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      }
+                    ],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 13
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      }
+                    ],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 30
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 31
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 32
+                      }
+                    ],
+                    "rowNum": 28
+                  }
+                ],
+                "rowNum": 23
+              }
+            ],
+            "rowNum": 23
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贷款处理申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 33
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 34
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 35
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 36
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 37
+                      }
+                    ],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 38
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 39
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 40
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 41
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 42
+                      }
+                    ],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 33
+          }
+        ],
+        "rowNum": 23
+      },
+      {
+        "name": "表外及中间业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "表外及中间业务合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 43
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 44
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 45
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 46
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 47
+                      }
+                    ],
+                    "rowNum": 43
+                  }
+                ],
+                "rowNum": 43
+              }
+            ],
+            "rowNum": 43
+          }
+        ],
+        "rowNum": 43
+      },
+      {
+        "name": "供应链业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "业务申请",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同调整申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 48
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 49
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 50
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 51
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 52
+                      }
+                    ],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 48
+              }
+            ],
+            "rowNum": 48
+          }
+        ],
+        "rowNum": 48
+      }
+    ]
+  }
+]

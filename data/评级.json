@@ -1,0 +1,2290 @@
+[
+  {
+    "roleName": "省联社评级模型管理员",
+    "roleOrg": "省联社",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": true,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": true,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": false,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": false,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "总行评级模型管理员",
+    "roleOrg": "法人行",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": true,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": true,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": false,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": false,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "省联社评级模型复核员",
+    "roleOrg": "省联社",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": true,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": true,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": false,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": false,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "总行评级模型复核员",
+    "roleOrg": "法人行",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": true,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": true,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": false,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": false,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 15,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "业务负责人",
+    "roleOrg": "法人行",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  },
+  {
+    "roleName": "总行副行长（信贷）",
+    "roleOrg": "法人行",
+    "colNum": 17,
+    "auths": [
+      {
+        "name": "业务配置",
+        "has": false,
+        "children": [
+          {
+            "name": "评级模型配置",
+            "has": false,
+            "children": [
+              {
+                "name": "评级指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "启用/禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "指标使用情况",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "评级模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "模板预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "停用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "省联社模型引用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 8
+              },
+              {
+                "name": "评级主标尺映射",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  }
+                ],
+                "rowNum": 18
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "统计查询",
+        "has": true,
+        "children": [
+          {
+            "name": "台账查询",
+            "has": true,
+            "children": [
+              {
+                "name": "评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "查看意见",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 20
+              },
+              {
+                "name": "线上产品评级查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              }
+            ],
+            "rowNum": 20
+          }
+        ],
+        "rowNum": 20
+      }
+    ]
+  }
+]

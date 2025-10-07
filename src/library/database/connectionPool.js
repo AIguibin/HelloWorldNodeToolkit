@@ -1,6 +1,6 @@
 import mysql from 'mysql2/promise';
 import { getDatabaseConfig } from '../../../config/database.js';
-import { logger } from '../../common/utils/logger.js';
+import { logger } from '../../common/helper/logger.js';
 import { DatabaseError } from '../../common/errors/databaseError.js';
 
 class ConnectionPoolManager {

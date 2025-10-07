@@ -1,0 +1,2942 @@
+[
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "分理处",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": true,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "分理处",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": true,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": true,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": true,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "支行",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "总行业务管理员",
+    "roleOrg": "法人行",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": false,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": false,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "法人行",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": false,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": false,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "总行函证任务专职员",
+    "roleOrg": "法人行",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": true,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": false,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": false,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "总行函证任务处理员",
+    "roleOrg": "法人行",
+    "colNum": 15,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": true,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": false,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": false,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "总行贷后集中作业人员",
+    "roleOrg": "法人行",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "稽核员",
+    "roleOrg": "法人行",
+    "colNum": 17,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "稽核负责人",
+    "roleOrg": "法人行",
+    "colNum": 18,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  },
+  {
+    "roleName": "办事处稽核员",
+    "roleOrg": "办事处",
+    "colNum": 19,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": false,
+        "children": [
+          {
+            "name": "函证任务管理",
+            "has": false,
+            "children": [
+              {
+                "name": "函证任务发起",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "删除函证项目",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "项目终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "编辑详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "函证任务处理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "下载询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "生成二维码",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "签署询证函",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "查看影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "贷款列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "上传影像",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 10
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "客户管理",
+        "has": true,
+        "children": [
+          {
+            "name": "风险信号查询",
+            "has": true,
+            "children": [
+              {
+                "name": "客户信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "添加信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "解除信号",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "解除信号台账",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "风险拦截查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "列表查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "查看明细",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 17
+          }
+        ],
+        "rowNum": 17
+      }
+    ]
+  }
+]

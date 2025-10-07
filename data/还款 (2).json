@@ -1,0 +1,5021 @@
+[
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": true,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": true,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处业务负责人",
+    "roleOrg": "办事处",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "总行副行长（信贷）",
+    "roleOrg": "法人行",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "法人行",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "风险负责人",
+    "roleOrg": "法人行",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务负责人",
+    "roleOrg": "法人行",
+    "colNum": 15,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "发放与支付审核员A",
+    "roleOrg": "法人行",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "发放与支付审核员B",
+    "roleOrg": "总行/分行（一级支行）/支行（二级支行）",
+    "colNum": 17,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "发放与支付审核员C",
+    "roleOrg": "总行/分行（一级支行）/支行（二级支行）",
+    "colNum": 18,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "发放与支付审核员D",
+    "roleOrg": "总行/分行（一级支行）/支行（二级支行）",
+    "colNum": 19,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "发放与支付审核员E",
+    "roleOrg": "总行/分行（一级支行）/支行（二级支行）",
+    "colNum": 20,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "总行集中审批分配员",
+    "roleOrg": "法人行",
+    "colNum": 21,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "总行集中审批审批员",
+    "roleOrg": "法人行",
+    "colNum": 22,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处集中度审批人",
+    "roleOrg": "办事处",
+    "colNum": 23,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处大额贷款审批人",
+    "roleOrg": "办事处",
+    "colNum": 24,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社集中度审批人",
+    "roleOrg": "省联社",
+    "colNum": 25,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社大额贷款审批人",
+    "roleOrg": "省联社",
+    "colNum": 26,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": false,
+        "children": [
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 3
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 4
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 5
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 6
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 7
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 8
+                      }
+                    ],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 9
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 10
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 11
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 12
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 13
+                      }
+                    ],
+                    "rowNum": 9
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "还款管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "未到期贷款优先还本",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 14
+                      },
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 15
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 16
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 17
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 18
+                      },
+                      {
+                        "name": "打印未到期贷款优先还本通知书",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 19
+                      }
+                    ],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "提前还款申请",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 20
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 21
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 22
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 23
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 24
+                      }
+                    ],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "银团特殊还款",
+                    "has": false,
+                    "children": [
+                      {
+                        "name": "新增",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 25
+                      },
+                      {
+                        "name": "查询",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 26
+                      },
+                      {
+                        "name": "删除",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 27
+                      },
+                      {
+                        "name": "修改",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 28
+                      },
+                      {
+                        "name": "查看",
+                        "has": false,
+                        "children": [],
+                        "rowNum": 29
+                      }
+                    ],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 14
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  }
+]

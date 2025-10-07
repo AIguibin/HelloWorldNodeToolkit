@@ -1,0 +1,6272 @@
+[
+  {
+    "roleName": "省联社产品管理员",
+    "roleOrg": "省联社",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": true,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "总行产品管理员",
+    "roleOrg": "法人行",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": true,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "省联社产品复核员",
+    "roleOrg": "省联社",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": false,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": false,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "总行产品复核员",
+    "roleOrg": "法人行",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": false,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": false,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "省联社统计查询员",
+    "roleOrg": "省联社",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "办事处统计查询员",
+    "roleOrg": "办事处",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "总行统计查询员",
+    "roleOrg": "法人行",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": true,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": true,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": true,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "省联社利率复核员",
+    "roleOrg": "省联社",
+    "colNum": 18,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": false,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": false,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": false,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": false,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": false,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "总行利率复核员",
+    "roleOrg": "法人行",
+    "colNum": 19,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": false,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": false,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": false,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": false,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": false,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": false,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "省联社利率管理员",
+    "roleOrg": "省联社",
+    "colNum": 20,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": false,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": false,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": false,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": true,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  },
+  {
+    "roleName": "总行利率管理员",
+    "roleOrg": "法人行",
+    "colNum": 21,
+    "auths": [
+      {
+        "name": "产品中心",
+        "has": false,
+        "children": [
+          {
+            "name": "产品管理",
+            "has": false,
+            "children": [
+              {
+                "name": "要素管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增一级类型",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "新增组件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "产品配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增分类",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "新增产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "同步省联社产品",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "产品克隆",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "产品修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "限额设置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  }
+                ],
+                "rowNum": 14
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "产品查询",
+            "has": false,
+            "children": [
+              {
+                "name": "产品树查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "产品详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "导出",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 18
+              },
+              {
+                "name": "核心产品映射查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "限额查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              }
+            ],
+            "rowNum": 18
+          },
+          {
+            "name": "产品运营",
+            "has": false,
+            "children": [
+              {
+                "name": "产品宣传管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "预览",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "产品规模统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 28
+              },
+              {
+                "name": "产品分布统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 32
+                  }
+                ],
+                "rowNum": 30
+              },
+              {
+                "name": "产品风险统计",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "导出数据",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 34
+                  }
+                ],
+                "rowNum": 33
+              }
+            ],
+            "rowNum": 23
+          }
+        ],
+        "rowNum": 3
+      },
+      {
+        "name": "利率中心",
+        "has": true,
+        "children": [
+          {
+            "name": "模型管理",
+            "has": true,
+            "children": [
+              {
+                "name": "利率定价模型配置",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "复制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 38
+                  },
+                  {
+                    "name": "模型预览",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  }
+                ],
+                "rowNum": 35
+              }
+            ],
+            "rowNum": 35
+          },
+          {
+            "name": "指标配置",
+            "has": false,
+            "children": [
+              {
+                "name": "指标池配置",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增指标池",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "启用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "禁用",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 45
+                  }
+                ],
+                "rowNum": 40
+              }
+            ],
+            "rowNum": 40
+          },
+          {
+            "name": "参考利率调用查询",
+            "has": true,
+            "children": [
+              {
+                "name": "利率查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  }
+                ],
+                "rowNum": 46
+              }
+            ],
+            "rowNum": 46
+          }
+        ],
+        "rowNum": 35
+      }
+    ]
+  }
+]

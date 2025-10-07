@@ -1,8 +1,8 @@
 import { Command } from 'commander';
 import os from 'os';
 import path from 'path';
-import RuleImportService from '../src/service/ruleImportService.js';
-import { logger } from '../src/common/utils/logger.js';
+import RuleImportService from '../src/service/RuleImportService.js';
+import { logger } from '../src/common/helper/logger.js';
 
 const command = new Command('import-rules');
 

@@ -1,0 +1,3674 @@
+[
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "分理处",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "分理处",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": false,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": false,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务负责人",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务审查员",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务调查员",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务调查员",
+    "roleOrg": "法人行",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行（一级支行）",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行（二级支行）",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 15,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "法人行",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "稽核员",
+    "roleOrg": "法人行",
+    "colNum": 17,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务审查员",
+    "roleOrg": "法人行",
+    "colNum": 18,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "风险审查员",
+    "roleOrg": "法人行",
+    "colNum": 19,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "总行副行长（信贷）",
+    "roleOrg": "法人行",
+    "colNum": 20,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "法人行",
+    "colNum": 21,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "董事长（顶岗）",
+    "roleOrg": "法人行",
+    "colNum": 22,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处业务管理员",
+    "roleOrg": "办事处",
+    "colNum": 23,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处稽核员",
+    "roleOrg": "办事处",
+    "colNum": 24,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处业务审查员",
+    "roleOrg": "办事处",
+    "colNum": 25,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处风险审查员",
+    "roleOrg": "办事处",
+    "colNum": 26,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处业务负责人",
+    "roleOrg": "办事处",
+    "colNum": 27,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处稽核负责人",
+    "roleOrg": "办事处",
+    "colNum": 28,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处主任",
+    "roleOrg": "办事处",
+    "colNum": 29,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处分管业务副主任",
+    "roleOrg": "办事处",
+    "colNum": 30,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处业务管理员",
+    "roleOrg": "办事处",
+    "colNum": 31,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社稽核员",
+    "roleOrg": "省联社",
+    "colNum": 32,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "征信查询员",
+    "roleOrg": "支行",
+    "colNum": 33,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "征信复核员",
+    "roleOrg": "支行",
+    "colNum": 34,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社征信管理员",
+    "roleOrg": "省联社",
+    "colNum": 35,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社业务负责人",
+    "roleOrg": "省联社",
+    "colNum": 36,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社业务管理员",
+    "roleOrg": "省联社",
+    "colNum": 37,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社风险负责人",
+    "roleOrg": "省联社",
+    "colNum": 38,
+    "auths": [
+      {
+        "name": "数字化信贷业务平台",
+        "has": true,
+        "children": [
+          {
+            "name": "对公客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "受理",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  }
+                ],
+                "rowNum": 3
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人客户",
+            "has": true,
+            "children": [
+              {
+                "name": "进件管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "详情",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "查看信用报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "同意免尽调",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 8
+              }
+            ],
+            "rowNum": 8
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@
 import fs from 'fs';
 import { createWriteStream } from 'fs';
 import { Readable } from 'stream';
-import logger from '../common/utils/logger.js';
+import logger from '../common/helper/logger.js';
 
 class FetchApiService {
     constructor(baseURL, options = {}) {

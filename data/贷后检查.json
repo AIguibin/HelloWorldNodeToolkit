@@ -1,0 +1,4018 @@
+[
+  {
+    "roleName": "省联社业务负责人",
+    "roleOrg": "省联社",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社业务管理员",
+    "roleOrg": "省联社",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社风险负责人",
+    "roleOrg": "省联社",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社稽核负责人",
+    "roleOrg": "省联社",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社信贷负责人",
+    "roleOrg": "省联社",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "总行",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "业务负责人",
+    "roleOrg": "总行",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "风险负责人",
+    "roleOrg": "总行",
+    "colNum": 12,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "稽核负责人",
+    "roleOrg": "总行",
+    "colNum": 13,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": false,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（一级支行）",
+    "roleOrg": "分行",
+    "colNum": 14,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（二级支行）",
+    "roleOrg": "支行",
+    "colNum": 15,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行",
+    "colNum": 16,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": true,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行",
+    "colNum": 17,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": true,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "分理处",
+    "colNum": 18,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": true,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "分理处",
+    "colNum": 19,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": true,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "分理处主任",
+    "roleOrg": "分理处",
+    "colNum": 20,
+    "auths": [
+      {
+        "name": "贷后管理",
+        "has": true,
+        "children": [
+          {
+            "name": "贷后检查",
+            "has": true,
+            "children": [
+              {
+                "name": "首次贷后检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "首次贷后检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 6
+              },
+              {
+                "name": "常规检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "常规检查批量认定",
+                "has": true,
+                "children": [
+                  {
+                    "name": "认定",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 14
+              },
+              {
+                "name": "重点检查",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "指派",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  },
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "贷后检查已完成明细",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "打印报告",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "专项检查发布",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "完结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "发布",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "专项检查执行",
+                "has": false,
+                "children": [
+                  {
+                    "name": "检查",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  }
+                ],
+                "rowNum": 30
+              }
+            ],
+            "rowNum": 3
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  }
+]

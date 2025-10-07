@@ -1,0 +1,3422 @@
+[
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "支行",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "合同管理",
+        "has": true,
+        "children": [
+          {
+            "name": "对公信贷合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "已签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人贷款合同管理",
+            "has": false,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "已签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 32
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 34
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 31
+              }
+            ],
+            "rowNum": 21
+          },
+          {
+            "name": "担保合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "一般担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 45
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 47
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 39
+              },
+              {
+                "name": "最高额担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 49
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 50
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 51
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 52
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 53
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 54
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 55
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 56
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 57
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 58
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 59
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 60
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 61
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 62
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 63
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 64
+                  }
+                ],
+                "rowNum": 49
+              }
+            ],
+            "rowNum": 39
+          },
+          {
+            "name": "授信合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公综合授信合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 65
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 66
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 67
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 68
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 69
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 70
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 71
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 72
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 73
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 74
+                  }
+                ],
+                "rowNum": 65
+              },
+              {
+                "name": "个人综合授信合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 75
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 76
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 77
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 78
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 79
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 80
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 81
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 82
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 83
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 84
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 85
+                  }
+                ],
+                "rowNum": 75
+              }
+            ],
+            "rowNum": 65
+          },
+          {
+            "name": "其他合同协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "合同补充协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同补充协议列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 86
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 87
+                  }
+                ],
+                "rowNum": 86
+              },
+              {
+                "name": "银票贴现框架协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贴现协议列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 88
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 89
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 90
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 91
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 92
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 93
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 94
+                  }
+                ],
+                "rowNum": 88
+              },
+              {
+                "name": "委托贷款协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 95
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 96
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 97
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 98
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 99
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 100
+                  },
+                  {
+                    "name": "打印委托贷款协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 101
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 102
+                  }
+                ],
+                "rowNum": 95
+              }
+            ],
+            "rowNum": 86
+          },
+          {
+            "name": "合同变更协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公变更协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 103
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 104
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 105
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 106
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 107
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 108
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 109
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 110
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 111
+                  }
+                ],
+                "rowNum": 103
+              },
+              {
+                "name": "个人变更协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 112
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 113
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 114
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 115
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 116
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 117
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 118
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 119
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 120
+                  }
+                ],
+                "rowNum": 112
+              }
+            ],
+            "rowNum": 103
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "对公客户经理",
+    "roleOrg": "分理处",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "合同管理",
+        "has": true,
+        "children": [
+          {
+            "name": "对公信贷合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "已签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人贷款合同管理",
+            "has": false,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 29
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 30
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "已签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 32
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 34
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 31
+              }
+            ],
+            "rowNum": 21
+          },
+          {
+            "name": "担保合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "一般担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 45
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 47
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 39
+              },
+              {
+                "name": "最高额担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 49
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 50
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 51
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 52
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 53
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 54
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 55
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 56
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 57
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 58
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 59
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 60
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 61
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 62
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 63
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 64
+                  }
+                ],
+                "rowNum": 49
+              }
+            ],
+            "rowNum": 39
+          },
+          {
+            "name": "授信合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公综合授信合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 65
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 66
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 67
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 68
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 69
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 70
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 71
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 72
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 73
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 74
+                  }
+                ],
+                "rowNum": 65
+              },
+              {
+                "name": "个人综合授信合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 75
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 76
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 77
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 78
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 79
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 80
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 81
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 82
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 83
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 84
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 85
+                  }
+                ],
+                "rowNum": 75
+              }
+            ],
+            "rowNum": 65
+          },
+          {
+            "name": "其他合同协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "合同补充协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同补充协议列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 86
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 87
+                  }
+                ],
+                "rowNum": 86
+              },
+              {
+                "name": "银票贴现框架协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "贴现协议列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 88
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 89
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 90
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 91
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 92
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 93
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 94
+                  }
+                ],
+                "rowNum": 88
+              },
+              {
+                "name": "委托贷款协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 95
+                  },
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 96
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 97
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 98
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 99
+                  },
+                  {
+                    "name": "终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 100
+                  },
+                  {
+                    "name": "打印委托贷款协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 101
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 102
+                  }
+                ],
+                "rowNum": 95
+              }
+            ],
+            "rowNum": 86
+          },
+          {
+            "name": "合同变更协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公变更协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 103
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 104
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 105
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 106
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 107
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 108
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 109
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 110
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 111
+                  }
+                ],
+                "rowNum": 103
+              },
+              {
+                "name": "个人变更协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 112
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 113
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 114
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 115
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 116
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 117
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 118
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 119
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 120
+                  }
+                ],
+                "rowNum": 112
+              }
+            ],
+            "rowNum": 103
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "支行",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "合同管理",
+        "has": true,
+        "children": [
+          {
+            "name": "对公信贷合同管理",
+            "has": false,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "已签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人贷款合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "已签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 31
+              }
+            ],
+            "rowNum": 21
+          },
+          {
+            "name": "担保合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "一般担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 45
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 47
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 39
+              },
+              {
+                "name": "最高额担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 49
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 50
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 51
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 52
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 53
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 54
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 55
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 56
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 57
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 58
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 59
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 60
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 61
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 62
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 63
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 64
+                  }
+                ],
+                "rowNum": 49
+              }
+            ],
+            "rowNum": 39
+          },
+          {
+            "name": "授信合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公综合授信合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 65
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 66
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 67
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 68
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 69
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 70
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 71
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 72
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 73
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 74
+                  }
+                ],
+                "rowNum": 65
+              },
+              {
+                "name": "个人综合授信合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 75
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 76
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 77
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 78
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 79
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 80
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 81
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 82
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 83
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 84
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 85
+                  }
+                ],
+                "rowNum": 75
+              }
+            ],
+            "rowNum": 65
+          },
+          {
+            "name": "其他合同协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "合同补充协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同补充协议列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 86
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 87
+                  }
+                ],
+                "rowNum": 86
+              },
+              {
+                "name": "银票贴现框架协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贴现协议列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 88
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 89
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 90
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 91
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 92
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 93
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 94
+                  }
+                ],
+                "rowNum": 88
+              },
+              {
+                "name": "委托贷款协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 95
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 96
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 97
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 98
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 99
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 100
+                  },
+                  {
+                    "name": "打印委托贷款协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 101
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 102
+                  }
+                ],
+                "rowNum": 95
+              }
+            ],
+            "rowNum": 86
+          },
+          {
+            "name": "合同变更协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公变更协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 103
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 104
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 105
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 106
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 107
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 108
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 109
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 110
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 111
+                  }
+                ],
+                "rowNum": 103
+              },
+              {
+                "name": "个人变更协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 112
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 113
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 114
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 115
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 116
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 117
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 118
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 119
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 120
+                  }
+                ],
+                "rowNum": 112
+              }
+            ],
+            "rowNum": 103
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "个人客户经理",
+    "roleOrg": "分理处",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "合同管理",
+        "has": true,
+        "children": [
+          {
+            "name": "对公信贷合同管理",
+            "has": false,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "已签订合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 13
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "个人贷款合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "待签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  },
+                  {
+                    "name": "落实贷款前提条件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 27
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 28
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 29
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 30
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "已签订合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 31
+                  },
+                  {
+                    "name": "合同废止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 32
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 33
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 34
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 35
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 36
+                  },
+                  {
+                    "name": "释放担保金额（人工）",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 37
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 38
+                  }
+                ],
+                "rowNum": 31
+              }
+            ],
+            "rowNum": 21
+          },
+          {
+            "name": "担保合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "一般担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 39
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 40
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 41
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 42
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 43
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 44
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 45
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 46
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 47
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 48
+                  }
+                ],
+                "rowNum": 39
+              },
+              {
+                "name": "最高额担保合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 49
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 50
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 51
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 52
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 53
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 54
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 55
+                  },
+                  {
+                    "name": "视频录制",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 56
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 57
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 58
+                  },
+                  {
+                    "name": "合同终止",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 59
+                  },
+                  {
+                    "name": "合同冻结",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 60
+                  },
+                  {
+                    "name": "合同解冻",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 61
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 62
+                  },
+                  {
+                    "name": "录入抵质押登记证明",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 63
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 64
+                  }
+                ],
+                "rowNum": 49
+              }
+            ],
+            "rowNum": 39
+          },
+          {
+            "name": "授信合同管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公综合授信合同管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 65
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 66
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 67
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 68
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 69
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 70
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 71
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 72
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 73
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 74
+                  }
+                ],
+                "rowNum": 65
+              },
+              {
+                "name": "个人综合授信合同管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "综合授信合同列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 75
+                  },
+                  {
+                    "name": "合同新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 76
+                  },
+                  {
+                    "name": "合同修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 77
+                  },
+                  {
+                    "name": "合同查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 78
+                  },
+                  {
+                    "name": "合同撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 79
+                  },
+                  {
+                    "name": "合同补充协议申请",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 80
+                  },
+                  {
+                    "name": "填写合同信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 81
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 82
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 83
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 84
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 85
+                  }
+                ],
+                "rowNum": 75
+              }
+            ],
+            "rowNum": 65
+          },
+          {
+            "name": "其他合同协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "合同补充协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "合同补充协议列表",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 86
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 87
+                  }
+                ],
+                "rowNum": 86
+              },
+              {
+                "name": "银票贴现框架协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "贴现协议列表",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 88
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 89
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 90
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 91
+                  },
+                  {
+                    "name": "打印合同",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 92
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 93
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 94
+                  }
+                ],
+                "rowNum": 88
+              },
+              {
+                "name": "委托贷款协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查询",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 95
+                  },
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 96
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 97
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 98
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 99
+                  },
+                  {
+                    "name": "终止",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 100
+                  },
+                  {
+                    "name": "打印委托贷款协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 101
+                  },
+                  {
+                    "name": "上传合同扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 102
+                  }
+                ],
+                "rowNum": 95
+              }
+            ],
+            "rowNum": 86
+          },
+          {
+            "name": "合同变更协议管理",
+            "has": true,
+            "children": [
+              {
+                "name": "对公变更协议管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 103
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 104
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 105
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 106
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 107
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 108
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 109
+                  },
+                  {
+                    "name": "确认",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 110
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 111
+                  }
+                ],
+                "rowNum": 103
+              },
+              {
+                "name": "个人变更协议管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "填写合同调整协议信息",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 112
+                  },
+                  {
+                    "name": "打印合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 113
+                  },
+                  {
+                    "name": "上传合同调整协议扫描件",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 114
+                  },
+                  {
+                    "name": "签订提醒",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 115
+                  },
+                  {
+                    "name": "申请详情查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 116
+                  },
+                  {
+                    "name": "合同调整协议撤销",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 117
+                  },
+                  {
+                    "name": "重新生成合同调整协议",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 118
+                  },
+                  {
+                    "name": "确认",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 119
+                  },
+                  {
+                    "name": "展期发送核心",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 120
+                  }
+                ],
+                "rowNum": 112
+              }
+            ],
+            "rowNum": 103
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  }
+]

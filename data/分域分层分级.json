@@ -1,0 +1,1745 @@
+[
+  {
+    "roleName": "省联社分域分层分级管理员",
+    "roleOrg": "省联社",
+    "colNum": 5,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": true,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": true,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社分域分层分级查询员",
+    "roleOrg": "省联社",
+    "colNum": 6,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": true,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "省联社分域分层分级审批员",
+    "roleOrg": "省联社",
+    "colNum": 7,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": false,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": false,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "办事处分域分层分级查询员",
+    "roleOrg": "办事处",
+    "colNum": 8,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": true,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "董事长",
+    "roleOrg": "总行",
+    "colNum": 9,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": true,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "行长（总行）",
+    "roleOrg": "总行",
+    "colNum": 10,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": true,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  },
+  {
+    "roleName": "总行行长（顶岗）",
+    "roleOrg": "总行",
+    "colNum": 11,
+    "auths": [
+      {
+        "name": "分域分层分级管理",
+        "has": true,
+        "children": [
+          {
+            "name": "日常管理",
+            "has": false,
+            "children": [
+              {
+                "name": "分域分层分级管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "新增",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 3
+                  },
+                  {
+                    "name": "变更",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 4
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 5
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 6
+                  },
+                  {
+                    "name": "批量模板下载",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 7
+                  },
+                  {
+                    "name": "批量导入",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 8
+                  }
+                ],
+                "rowNum": 3
+              },
+              {
+                "name": "参数管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 9
+                  },
+                  {
+                    "name": "生效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 10
+                  },
+                  {
+                    "name": "失效",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 11
+                  },
+                  {
+                    "name": "修改",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 12
+                  },
+                  {
+                    "name": "查看",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 13
+                  },
+                  {
+                    "name": "删除",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 14
+                  }
+                ],
+                "rowNum": 9
+              },
+              {
+                "name": "规制指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 15
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 16
+                  }
+                ],
+                "rowNum": 15
+              },
+              {
+                "name": "考核指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 17
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 18
+                  }
+                ],
+                "rowNum": 17
+              },
+              {
+                "name": "监测指标管理",
+                "has": false,
+                "children": [
+                  {
+                    "name": "维护指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 19
+                  },
+                  {
+                    "name": "删除指标",
+                    "has": false,
+                    "children": [],
+                    "rowNum": 20
+                  }
+                ],
+                "rowNum": 19
+              }
+            ],
+            "rowNum": 3
+          },
+          {
+            "name": "信息查询",
+            "has": true,
+            "children": [
+              {
+                "name": "分域分层分级信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 21
+                  }
+                ],
+                "rowNum": 21
+              },
+              {
+                "name": "参数信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 22
+                  }
+                ],
+                "rowNum": 22
+              },
+              {
+                "name": "规制指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 23
+                  }
+                ],
+                "rowNum": 23
+              },
+              {
+                "name": "考核指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 24
+                  }
+                ],
+                "rowNum": 24
+              },
+              {
+                "name": "监测指标信息查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 25
+                  }
+                ],
+                "rowNum": 25
+              },
+              {
+                "name": "法人行指标报表查询",
+                "has": true,
+                "children": [
+                  {
+                    "name": "查看",
+                    "has": true,
+                    "children": [],
+                    "rowNum": 26
+                  }
+                ],
+                "rowNum": 26
+              }
+            ],
+            "rowNum": 21
+          }
+        ],
+        "rowNum": 3
+      }
+    ]
+  }
+]

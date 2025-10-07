@@ -1,0 +1,60 @@
+{
+  "file_mappings": {
+    "对公授信": {
+      "workflowNum": "WF_D_PCE_000006",
+      "ahnTp": "01"
+    },
+    "个人授信": {
+      "workflowNum": "WF_D_RCE_000007",
+      "ahnTp": "01"
+    },
+    "对公用信": {
+      "workflowNum": "WF_D_PUC_000020",
+      "ahnTp": "02"
+    },
+    "个人用信": {
+      "workflowNum": "WF_D_RUC_000020",
+      "ahnTp": "02"
+    },
+    "受托支付变更流程": {
+      "workflowNum": "WF_D_MLA_0000125",
+      "ahnTp": "03"
+    },
+    "票据贴现垫款申请": {
+      "workflowNum": "WF_D_MLA_0000105",
+      "ahnTp": "03"
+    },
+    "个人放款": {
+      "workflowNum": "WF_D_MLA_0000101",
+      "ahnTp": "03"
+    },
+    "对公放款": {
+      "workflowNum": "WF_D_MLA_0000100",
+      "ahnTp": "03"
+    },
+    "贷款承诺注销": {
+      "workflowNum": "WF_D_MLA_0000117",
+      "ahnTp": "03"
+    },
+    "贷款承诺开立": {
+      "workflowNum": "WF_D_MLA_0000116",
+      "ahnTp": "03"
+    },
+    "保函注销": {
+      "workflowNum": "WF_D_MLA_0000123",
+      "ahnTp": "03"
+    },
+    "保函赔付支付变更": {
+      "workflowNum": "WF_D_MLA_0000126",
+      "ahnTp": "03"
+    },
+    "保函赔付": {
+      "workflowNum": "WF_D_MLA_0000124",
+      "ahnTp": "03"
+    },
+    "保函开立": {
+      "workflowNum": "WF_D_MLA_0000122",
+      "ahnTp": "03"
+    }
+  }
+}

@@ -3,7 +3,7 @@ import FormData from 'form-data';
 import fs from 'fs';
 import { createWriteStream } from 'fs';
 import { promisify } from 'util';
-import logger from '../common/utils/logger.js';
+import logger from '../common/helper/logger.js';
 
 const streamPipeline = promisify(require('stream').pipeline);
 
