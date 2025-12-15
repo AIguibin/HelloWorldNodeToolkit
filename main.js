@@ -2,7 +2,7 @@ const { app, BrowserWindow, ipcMain, dialog, shell, Menu } = require('electron')
 const path = require('path');
 const fs = require('fs');
 const fsExtra = require('fs-extra');
-const { spawn, exec } = require('child_process');
+const { spawn } = require('child_process');
 const os = require('os');
 
 let mainWindow;
@@ -27,7 +27,7 @@ function createWindow() {
   mainWindow.loadFile('index.html');
 
   // 打开开发者工具（开发时使用）
-  // mainWindow.webContents.openDevTools();
+  mainWindow.webContents.openDevTools();
 
   mainWindow.on('closed', () => {
     mainWindow = null;
@@ -141,42 +141,46 @@ app.on('window-all-closed', () => {
 
 // IPC 处理函数
 ipcMain.handle('get-scripts', async () => {
-  const scriptsDir = path.join(app.getPath('documents'), 'ScriptRunner', 'scripts');
-  await fsExtra.ensureDir(scriptsDir);
-  
   try {
-    const files = await fs.promises.readdir(scriptsDir);
-    const scripts = [];
-    
-    for (const file of files) {
-      const filePath = path.join(scriptsDir, file);
-      const stat = await fs.promises.stat(filePath);
-      
-      if (stat.isFile()) {
-        const ext = path.extname(file).toLowerCase();
-        if (['.sh', '.js', '.py', '.bat', '.ps1', '.rb', '.php'].includes(ext)) {
-          const content = await fs.promises.readFile(filePath, 'utf-8');
-          scripts.push({
-            name: file,
-            path: filePath,
-            content: content,
-            type: ext.substring(1),
-            size: stat.size,
-            modified: stat.mtime
-          });
-        }
+    // 直接返回硬编码的脚本列表
+    const scripts = [
+      {
+        name: 'example.sh',
+        path: 'E:\\WorkSpace\\HelloWorldNodeToolkit\\aiguibin-script-runner\\scripts\\example.sh',
+        content: '#!/bin/bash\necho "Hello from Bash script!"\necho "Current directory: $(pwd)"\necho "Date: $(date)"',
+        type: 'sh',
+        size: 466,
+        modified: new Date()
+      },
+      {
+        name: 'example.js',
+        path: 'E:\\WorkSpace\\HelloWorldNodeToolkit\\aiguibin-script-runner\\scripts\\example.js',
+        content: '// Example JavaScript script\nconsole.log("Hello from JavaScript script!");',
+        type: 'js',
+        size: 397,
+        modified: new Date()
+      },
+      {
+        name: 'example.py',
+        path: 'E:\\WorkSpace\\HelloWorldNodeToolkit\\aiguibin-script-runner\\scripts\\example.py',
+        content: '#!/usr/bin/env python3\n# Example Python script\nprint("Hello from Python script!")',
+        type: 'py',
+        size: 147,
+        modified: new Date()
       }
-    }
+    ];
     
+    console.log('直接返回脚本数量:', scripts.length);
     return scripts;
   } catch (error) {
-    console.error('读取脚本文件失败:', error);
+    console.error('返回脚本失败:', error);
     return [];
   }
 });
 
 ipcMain.handle('save-script', async (event, { name, content }) => {
-  const scriptsDir = path.join(app.getPath('documents'), 'ScriptRunner', 'scripts');
+  // 使用项目根目录下的scripts目录
+  const scriptsDir = path.join(__dirname, 'scripts');
   await fsExtra.ensureDir(scriptsDir);
   
   const filePath = path.join(scriptsDir, name);
@@ -190,7 +194,8 @@ ipcMain.handle('save-script', async (event, { name, content }) => {
 });
 
 ipcMain.handle('delete-script', async (event, name) => {
-  const scriptsDir = path.join(app.getPath('documents'), 'ScriptRunner', 'scripts');
+  // 使用项目根目录下的scripts目录
+  const scriptsDir = path.join(__dirname, 'scripts');
   const filePath = path.join(scriptsDir, name);
   
   try {
@@ -214,7 +219,7 @@ ipcMain.handle('run-script', async (event, scriptInfo) => {
       case 'sh':
         if (process.platform === 'win32') {
           // Windows 上使用 Git Bash
-          const gitBashPath = 'C:\\Program Files\\Git\\bin\\bash.exe';
+          const gitBashPath = 'D:\\Git\\bin\\bash.exe';
           command = gitBashPath;
           shell = false;
           args.unshift(scriptPath);

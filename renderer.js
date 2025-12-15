@@ -1,6 +1,4 @@
-// 初始化Monaco Editor
-require.config({ paths: { vs: 'node_modules/monaco-editor/min/vs' } });
-
+// 简化方案：使用textarea替代monaco-editor
 let editor = null;
 let terminal = null;
 let currentScript = null;
@@ -8,8 +6,8 @@ let scripts = [];
 
 // 初始化应用
 document.addEventListener('DOMContentLoaded', async () => {
-    await initializeMonaco();
     await initializeTerminal();
+    initializeSimpleEditor();
     await loadScripts();
     setupEventListeners();
     loadTerminalInfo();
@@ -28,95 +26,157 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
 });
 
-async function initializeMonaco() {
-    return new Promise((resolve) => {
-        require(['vs/editor/editor.main'], () => {
-            editor = monaco.editor.create(document.getElementById('editor'), {
-                value: '// 选择一个脚本开始编辑\n// 或点击"新建脚本"按钮创建新脚本',
-                language: 'plaintext',
-                theme: 'vs-dark',
-                automaticLayout: true,
-                fontSize: 14,
-                minimap: { enabled: true },
-                scrollBeyondLastLine: false,
-                renderLineHighlight: 'all',
-                wordWrap: 'on',
-                wrappingIndent: 'indent',
-                lineNumbers: 'on',
-                glyphMargin: true,
-                folding: true,
-                lineDecorationsWidth: 10,
-                lineNumbersMinChars: 3
-            });
-            
-            // 监听编辑器内容变化
-            editor.onDidChangeModelContent(() => {
-                if (currentScript) {
-                    currentScript.content = editor.getValue();
-                    updateScriptInList(currentScript);
-                }
-            });
-            
-            resolve();
-        });
+// 初始化简单的textarea编辑器
+function initializeSimpleEditor() {
+    const editorContainer = document.getElementById('editor');
+    
+    // 创建textarea元素
+    const textarea = document.createElement('textarea');
+    textarea.style.width = '100%';
+    textarea.style.height = '100%';
+    textarea.style.border = 'none';
+    textarea.style.background = '#1e1e1e';
+    textarea.style.color = '#d4d4d4';
+    textarea.style.fontFamily = 'Consolas, "Courier New", monospace';
+    textarea.style.fontSize = '14px';
+    textarea.style.lineHeight = '1.5';
+    textarea.style.padding = '10px';
+    textarea.style.resize = 'none';
+    textarea.style.overflow = 'auto';
+    textarea.value = '// 选择一个脚本开始编辑\n// 或点击"新建脚本"按钮创建新脚本';
+    
+    // 清空容器并添加textarea
+    editorContainer.innerHTML = '';
+    editorContainer.appendChild(textarea);
+    
+    // 保存引用和添加事件监听
+    editor = textarea;
+    
+    textarea.addEventListener('input', () => {
+        if (currentScript) {
+            currentScript.content = textarea.value;
+            updateScriptInList(currentScript);
+        }
     });
 }
 
 async function initializeTerminal() {
-    const { Terminal } = require('xterm');
-    const { FitAddon } = require('xterm-addon-fit');
-    const { WebLinksAddon } = require('xterm-addon-web-links');
-    
-    terminal = new Terminal({
-        theme: {
-            background: '#0c0c0c',
-            foreground: '#f0f0f0',
-            cursor: '#a8a8a8',
-            black: '#0c0c0c',
-            red: '#e74856',
-            green: '#16c60c',
-            yellow: '#f9f1a5',
-            blue: '#3b78ff',
-            magenta: '#b4009e',
-            cyan: '#61d6d6',
-            white: '#cccccc'
-        },
-        fontSize: 13,
-        fontFamily: 'Consolas, "Courier New", monospace',
-        cursorBlink: true,
-        cursorStyle: 'block',
-        allowTransparency: true,
-        convertEol: true
+    return new Promise((resolve) => {
+        // 调试：检查全局对象
+        console.log('=== 终端初始化调试信息 ===');
+        console.log('window.Terminal:', typeof window.Terminal);
+        console.log('window.FitAddon:', typeof window.FitAddon, window.FitAddon);
+        console.log('window.WebLinksAddon:', typeof window.WebLinksAddon, window.WebLinksAddon);
+        
+        // 尝试从window或global对象获取
+        const globalObj = typeof window !== 'undefined' ? window : global;
+        
+        // 检查Terminal是否已加载
+        const checkTerminal = () => {
+            return typeof globalObj.Terminal === 'function';
+        };
+        
+        // 等待Terminal加载完成
+        const waitForTerminal = () => {
+            if (checkTerminal()) {
+                initialize();
+            } else {
+                console.log('等待Terminal对象加载...');
+                setTimeout(waitForTerminal, 100);
+            }
+        };
+        
+        // 实际初始化函数
+        const initialize = () => {
+            try {
+                const Terminal = globalObj.Terminal;
+                
+                terminal = new Terminal({
+                    theme: {
+                        background: '#0c0c0c',
+                        foreground: '#f0f0f0',
+                        cursor: '#a8a8a8',
+                        black: '#0c0c0c',
+                        red: '#e74856',
+                        green: '#16c60c',
+                        yellow: '#f9f1a5',
+                        blue: '#3b78ff',
+                        magenta: '#b4009e',
+                        cyan: '#61d6d6',
+                        white: '#cccccc'
+                    },
+                    fontSize: 13,
+                    fontFamily: 'Consolas, "Courier New", monospace',
+                    cursorBlink: true,
+                    cursorStyle: 'block',
+                    allowTransparency: true,
+                    convertEol: true
+                });
+                
+                // 简化处理：不使用addons，直接实现简单的适配
+                terminal.open(document.getElementById('terminal'));
+                
+                // 简化的适配函数
+                const fit = () => {
+                    const container = document.getElementById('terminal');
+                    if (container && terminal) {
+                        terminal.resize(Math.floor(container.clientWidth / 8), Math.floor(container.clientHeight / 20));
+                    }
+                };
+                
+                // 初始适配和窗口大小变化监听
+                setTimeout(fit, 100);
+                window.addEventListener('resize', fit);
+                
+                terminal.writeln('\x1b[32m✓ AIguibin Script Runner 终端已就绪\x1b[0m');
+                terminal.writeln('> 选择一个脚本并点击"运行"按钮开始');
+                
+                resolve();
+            } catch (error) {
+                console.error('终端初始化失败:', error);
+                resolve(); // 即使失败也继续执行
+            }
+        };
+        
+        // 开始初始化流程
+        waitForTerminal();
     });
-    
-    const fitAddon = new FitAddon();
-    const webLinksAddon = new WebLinksAddon();
-    
-    terminal.loadAddon(fitAddon);
-    terminal.loadAddon(webLinksAddon);
-    terminal.open(document.getElementById('terminal'));
-    
-    // 调整终端大小
-    setTimeout(() => fitAddon.fit(), 100);
-    window.addEventListener('resize', () => fitAddon.fit());
-    
-    terminal.writeln('\x1b[32m✓ AIguibin Script Runner 终端已就绪\x1b[0m');
-    terminal.writeln('> 选择一个脚本并点击"运行"按钮开始');
 }
 
 async function loadScripts() {
     try {
+        terminal.writeln('\x1b[33m🔄 开始加载脚本...\x1b[0m');
+        
+        // 直接在终端输出调试信息
+        terminal.writeln('调用getScripts API...');
         scripts = await window.electronAPI.getScripts();
+        
+        terminal.writeln(`\x1b[32m✅ 加载脚本完成，数量: ${scripts.length}\x1b[0m`);
+        
+        // 输出每个脚本的详细信息
+        scripts.forEach((script, index) => {
+            terminal.writeln(`📄 脚本 ${index + 1}: ${script.name}`);
+            terminal.writeln(`   路径: ${script.path}`);
+            terminal.writeln(`   类型: ${script.type}`);
+            terminal.writeln(`   大小: ${script.size} bytes`);
+        });
+        
+        terminal.writeln('\x1b[33m📋 开始渲染脚本列表...\x1b[0m');
         renderScriptList();
+        terminal.writeln('\x1b[32m✅ 脚本列表渲染完成\x1b[0m');
         
         if (scripts.length > 0) {
+            terminal.writeln(`\x1b[33m🔍 选择第一个脚本: ${scripts[0].name}\x1b[0m`);
             selectScript(scripts[0]);
         } else {
+            terminal.writeln('\x1b[31m❌ 没有找到脚本\x1b[0m');
             editor.setValue('// 没有找到脚本\n// 点击"新建脚本"按钮创建第一个脚本');
         }
     } catch (error) {
         console.error('加载脚本失败:', error);
         terminal.writeln(`\x1b[31m❌ 加载脚本失败: ${error.message}\x1b[0m`);
+        // 输出完整的错误堆栈
+        terminal.writeln(`   错误详情: ${error.stack}`);
     }
 }
 
@@ -189,20 +249,9 @@ function selectScript(script) {
     currentScript = script;
     
     // 更新编辑器
-    editor.setValue(script.content);
-    
-    // 设置编辑器语言
-    const languageMap = {
-        'sh': 'shell',
-        'js': 'javascript',
-        'py': 'python',
-        'bat': 'batch',
-        'ps1': 'powershell',
-        'rb': 'ruby',
-        'php': 'php'
-    };
-    
-    monaco.editor.setModelLanguage(editor.getModel(), languageMap[script.type] || 'plaintext');
+    if (editor) {
+        editor.value = script.content;
+    }
     
     // 更新标签页
     updateEditorTabs();
@@ -323,7 +372,7 @@ async function deleteScript(name) {
 }
 
 async function createNewScript() {
-    const scriptName = document.getElementById('scriptName').value.trim();
+    let scriptName = document.getElementById('scriptName').value.trim();
     const scriptType = document.getElementById('scriptType').value;
     const template = document.getElementById('template').value;
     
