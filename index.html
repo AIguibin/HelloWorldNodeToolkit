@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIguibin Script Runner</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="node_modules/xterm/css/xterm.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 侧边栏 -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h2><i class="fas fa-code"></i> 脚本列表</h2>
+                <button id="refreshScripts" class="btn-icon" title="刷新">
+                    <i class="fas fa-sync-alt"></i>
+                </button>
+                <button id="newScript" class="btn-icon" title="新建脚本">
+                    <i class="fas fa-plus"></i>
+                </button>
+                <button id="openScriptsFolder" class="btn-icon" title="打开脚本文件夹">
+                    <i class="fas fa-folder-open"></i>
+                </button>
+            </div>
+            
+            <div class="script-list" id="scriptList">
+                <!-- 脚本列表将通过JS动态生成 -->
+            </div>
+            
+            <div class="sidebar-footer">
+                <div class="terminal-info">
+                    <h3><i class="fas fa-terminal"></i> 终端信息</h3>
+                    <div id="terminalInfo">
+                        <!-- 终端信息将通过JS动态生成 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 主内容区 -->
+        <div class="main-content">
+            <!-- 编辑器区域 -->
+            <div class="editor-container">
+                <div class="editor-header">
+                    <div class="editor-tabs" id="editorTabs">
+                        <!-- 标签页将通过JS动态生成 -->
+                    </div>
+                    <div class="editor-actions">
+                        <button id="saveScript" class="btn btn-primary">
+                            <i class="fas fa-save"></i> 保存
+                        </button>
+                        <button id="runScript" class="btn btn-success">
+                            <i class="fas fa-play"></i> 运行
+                        </button>
+                        <button id="stopScript" class="btn btn-danger">
+                            <i class="fas fa-stop"></i> 停止
+                        </button>
+                        <div class="script-args">
+                            <input type="text" id="scriptArgs" placeholder="参数 (空格分隔)">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="editor-wrapper">
+                    <div id="editor" class="code-editor"></div>
+                </div>
+            </div>
+
+            <!-- 终端输出区域 -->
+            <div class="terminal-container">
+                <div class="terminal-header">
+                    <h3><i class="fas fa-terminal"></i> 输出</h3>
+                    <div class="terminal-actions">
+                        <button id="clearTerminal" class="btn btn-secondary btn-small">
+                            <i class="fas fa-trash"></i> 清空
+                        </button>
+                        <button id="copyOutput" class="btn btn-secondary btn-small">
+                            <i class="fas fa-copy"></i> 复制
+                        </button>
+                    </div>
+                </div>
+                <div id="terminal" class="terminal-output"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 新建脚本模态框 -->
+    <div id="newScriptModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>新建脚本</h3>
+                <button class="close-modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="scriptName">脚本名称:</label>
+                    <input type="text" id="scriptName" placeholder="例如: my_script.sh">
+                </div>
+                <div class="form-group">
+                    <label for="scriptType">脚本类型:</label>
+                    <select id="scriptType">
+                        <option value="sh">Bash Shell (.sh)</option>
+                        <option value="js">JavaScript (.js)</option>
+                        <option value="py">Python (.py)</option>
+                        <option value="bat">Batch (.bat)</option>
+                        <option value="ps1">PowerShell (.ps1)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="template">选择模板:</label>
+                    <select id="template">
+                        <option value="empty">空白脚本</option>
+                        <option value="todo_finder">TODO查找器</option>
+                        <option value="file_backup">文件备份</option>
+                        <option value="system_info">系统信息</option>
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="cancelNewScript" class="btn btn-secondary">取消</button>
+                <button id="createScript" class="btn btn-primary">创建</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 脚本模板 -->
+    <script type="text/template" id="template-todo_finder">
+#!/bin/bash
+
+# TODO查找脚本
+# 用法: ./todo_finder.sh [目录] [输出文件]
+
+SEARCH_DIR="${1:-.}"
+OUTPUT_FILE="${2:-todo_report.log}"
+KEYWORD="TODO"
+
+echo "🔍 开始搜索\${KEYWORD}..."
+echo "📁 搜索目录: \${SEARCH_DIR}"
+echo "🔑 关键词: \${KEYWORD}"
+
+# 排除的目录
+EXCLUDE_DIRS="node_modules dist build .git"
+
+echo "# \${KEYWORD}报告" > "\${OUTPUT_FILE}"
+echo "# 生成时间: \$(date)" >> "\${OUTPUT_FILE}"
+echo "========================================" >> "\${OUTPUT_FILE}"
+
+find "\${SEARCH_DIR}" -type f \( -name "*.js" -o -name "*.ts" -o -name "*.py" -o -name "*.java" \) \
+    ! -path "*/node_modules/*" ! -path "*/dist/*" ! -path "*/.git/*" \
+    -exec grep -l "\${KEYWORD}" {} \; | while read -r file; do
+    echo "📝 \${file}:" >> "\${OUTPUT_FILE}"
+    grep -n "\${KEYWORD}" "\${file}" | sed 's/^/  /' >> "\${OUTPUT_FILE}"
+    echo "" >> "\${OUTPUT_FILE}"
+done
+
+echo "✅ 完成! 结果保存在: \${OUTPUT_FILE}"
+    </script>
+
+    <script type="text/template" id="template-file_backup">
+#!/bin/bash
+
+# 文件备份脚本
+# 用法: ./backup.sh [源目录] [目标目录]
+
+SOURCE="${1:-./}"
+TARGET="${2:-./backup}"
+BACKUP_NAME="backup_\$(date +%Y%m%d_%H%M%S).tar.gz"
+
+echo "📂 开始备份..."
+echo "📁 源目录: \${SOURCE}"
+echo "💾 目标目录: \${TARGET}"
+
+# 创建目标目录
+mkdir -p "\${TARGET}"
+
+# 创建备份
+tar -czf "\${TARGET}/\${BACKUP_NAME}" -C "\${SOURCE}" .
+
+if [ \$? -eq 0 ]; then
+    echo "✅ 备份成功!"
+    echo "📦 备份文件: \${TARGET}/\${BACKUP_NAME}"
+    echo "📊 文件大小: \$(du -h "\${TARGET}/\${BACKUP_NAME}" | cut -f1)"
+else
+    echo "❌ 备份失败!"
+    exit 1
+fi
+    </script>
+
+    <script type="text/template" id="template-system_info">
+#!/bin/bash
+
+# 系统信息脚本
+
+echo "🖥️  系统信息报告"
+echo "========================"
+echo ""
+echo "📅 日期时间: \$(date)"
+echo ""
+echo "💻 主机信息:"
+echo "  主机名: \$(hostname)"
+echo "  操作系统: \$(uname -s) \$(uname -r)"
+echo ""
+echo "📊 内存使用:"
+free -h | sed 's/^/  /'
+echo ""
+echo "💾 磁盘使用:"
+df -h / | sed 's/^/  /'
+echo ""
+echo "🔥 CPU信息:"
+echo "  核心数: \$(nproc)"
+echo "  负载: \$(uptime | awk -F'load average:' '{print \$2}')"
+echo ""
+echo "🌐 网络信息:"
+echo "  IP地址: \$(hostname -I | awk '{print \$1}')"
+echo ""
+echo "========================"
+echo "✅ 报告生成完成"
+    </script>
+
+    <script src="node_modules/monaco-editor/min/vs/loader.js"></script>
+    <script src="node_modules/xterm/lib/xterm.js"></script>
+    <script src="node_modules/xterm-addon-fit/lib/xterm-addon-fit.js"></script>
+    <script src="node_modules/xterm-addon-web-links/lib/xterm-addon-web-links.js"></script>
+    <script src="renderer.js"></script>
+</body>
+</html>

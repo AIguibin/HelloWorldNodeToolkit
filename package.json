@@ -1,0 +1,75 @@
+{
+  "name": "aiguibin-script-runner",
+  "version": "1.0.0",
+  "description": "跨平台脚本运行器",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "dist:win": "electron-builder --win",
+    "dist:mac": "electron-builder --mac",
+    "dist:linux": "electron-builder --linux"
+  },
+  "keywords": [
+    "electron",
+    "script",
+    "runner",
+    "bash",
+    "python",
+    "node"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-builder": "^24.0.0",
+    "nodemon": "^3.0.0"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.0",
+    "fs-extra": "^11.0.0",
+    "monaco-editor": "^0.55.1",
+    "tree-kill": "^1.2.2",
+    "xterm": "^5.2.0",
+    "xterm-addon-fit": "^0.7.0",
+    "xterm-addon-web-links": "^0.8.0"
+  },
+  "build": {
+    "appId": "com.aiguibin.script.runner",
+    "productName": "AIguibin Script Runner",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*",
+      "!**/node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+      "!**/node_modules/*/{test,__tests__,tests,powered-test,example,examples}",
+      "!**/node_modules/*.d.ts",
+      "!**/*.map"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "build/icon.ico"
+    },
+    "mac": {
+      "target": [
+        "dmg",
+        "zip"
+      ],
+      "icon": "build/icon.icns"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb",
+        "rpm"
+      ],
+      "icon": "build/icon.png"
+    }
+  }
+}
