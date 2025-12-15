@@ -142,35 +142,48 @@ app.on('window-all-closed', () => {
 // IPC 处理函数
 ipcMain.handle('get-scripts', async () => {
   try {
-    // 直接返回硬编码的脚本列表
-    const scripts = [
-      {
-        name: 'example.sh',
-        path: 'E:\\WorkSpace\\HelloWorldNodeToolkit\\aiguibin-script-runner\\scripts\\example.sh',
-        content: '#!/bin/bash\necho "Hello from Bash script!"\necho "Current directory: $(pwd)"\necho "Date: $(date)"',
-        type: 'sh',
-        size: 466,
-        modified: new Date()
-      },
-      {
-        name: 'example.js',
-        path: 'E:\\WorkSpace\\HelloWorldNodeToolkit\\aiguibin-script-runner\\scripts\\example.js',
-        content: '// Example JavaScript script\nconsole.log("Hello from JavaScript script!");',
-        type: 'js',
-        size: 397,
-        modified: new Date()
-      },
-      {
-        name: 'example.py',
-        path: 'E:\\WorkSpace\\HelloWorldNodeToolkit\\aiguibin-script-runner\\scripts\\example.py',
-        content: '#!/usr/bin/env python3\n# Example Python script\nprint("Hello from Python script!")',
-        type: 'py',
-        size: 147,
-        modified: new Date()
-      }
-    ];
+    // 遍历项目根目录下的scripts文件夹
+    const scriptsDir = path.join(__dirname, 'scripts');
+    console.log('读取脚本目录:', scriptsDir);
     
-    console.log('直接返回脚本数量:', scripts.length);
+    // 确保scripts目录存在
+    await fsExtra.ensureDir(scriptsDir);
+    
+    // 读取scripts目录中的所有文件
+    const files = await fs.promises.readdir(scriptsDir);
+    console.log('找到文件:', files);
+    
+    const scripts = [];
+    
+    // 遍历文件，处理每个脚本文件
+    for (const file of files) {
+      const filePath = path.join(scriptsDir, file);
+      
+      // 获取文件信息
+      const stat = await fs.promises.stat(filePath);
+      
+      // 只处理文件，跳过目录
+      if (stat.isFile()) {
+        // 获取文件扩展名，确定脚本类型
+        const ext = path.extname(file).toLowerCase();
+        const type = ext.substring(1); // 移除点号，如 .sh -> sh
+        
+        // 读取文件内容
+        const content = await fs.promises.readFile(filePath, 'utf-8');
+        
+        // 创建脚本对象
+        scripts.push({
+          name: file,
+          path: filePath,
+          content: content,
+          type: type,
+          size: stat.size,
+          modified: stat.mtime
+        });
+      }
+    }
+    
+    console.log('返回脚本数量:', scripts.length);
     return scripts;
   } catch (error) {
     console.error('返回脚本失败:', error);

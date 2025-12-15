@@ -316,7 +316,8 @@ async function runScript(script) {
     terminal.writeln(`\x1b[33m🚀 正在运行脚本: ${script.name}\x1b[0m`);
     terminal.writeln(`📂 路径: ${script.path}`);
     terminal.writeln(`⚙️  参数: ${args.length > 0 ? args.join(' ') : '无'}`);
-    terminal.writeln('─'.repeat(50));
+    terminal.writeln('─ ─ '.repeat(28));
+
     
     try {
         const result = await window.electronAPI.runScript({
@@ -325,7 +326,7 @@ async function runScript(script) {
             args: args
         });
         
-        terminal.writeln('\n─'.repeat(50));
+        terminal.writeln('─ ─ '.repeat(28));
         terminal.writeln(`\x1b[${result.success ? '32' : '31'}m${result.success ? '✅' : '❌'} 脚本执行完成 (退出码: ${result.exitCode})\x1b[0m`);
     } catch (error) {
         terminal.writeln(`\x1b[31m❌ 执行脚本时发生错误: ${error.message}\x1b[0m`);
@@ -336,6 +337,7 @@ async function stopScript() {
     try {
         const result = await window.electronAPI.stopScript();
         if (result.success) {
+            terminal.writeln('\n');
             terminal.writeln('\x1b[33m⏹️  脚本已停止\x1b[0m');
         } else {
             terminal.writeln(`\x1b[31m❌ 停止脚本失败: ${result.error}\x1b[0m`);
